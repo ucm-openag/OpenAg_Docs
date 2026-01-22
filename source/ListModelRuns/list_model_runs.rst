@@ -39,12 +39,17 @@ Filtering Model Runs
 .. todo:: flesh out
 
 :ref:`Settings <SettingsDoc>` that apply here
-Existing model runs can be filtered using the “Filter model runs” list in the header of the “Model Runs” window (see area 6 above). Currently, 
-users can filter to find “Base runs”, “Runs I have created”,  “Runs created by others in my organization”, and “Prepopulated runs”. 
+Existing model runs can be filtered using the ï¿½Filter model runsï¿½ list in the header of the ï¿½Model Runsï¿½ window (see area 6 above). Currently, 
+users can filter to find ï¿½Base runsï¿½, ï¿½Runs I have createdï¿½,  ï¿½Runs created by others in my organizationï¿½, and ï¿½Prepopulated runsï¿½. 
 
 Find Model Runs on a Scatterplot of Model Run Inputs
 -----------------------------------------------------------
-.. todo:: flesh out
+.. figure:: ./scatterplot.png
+
+This scatterplot visualizes the averaged magnitude of input modification in each category.
+It does not plot the results of the model runs. You are able to choose from six different options
+for both X and Y axis: Water, Land, Price, Yield, Region, and Crop.
+
 
 ..
     Comment

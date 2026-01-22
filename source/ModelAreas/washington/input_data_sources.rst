@@ -4,7 +4,7 @@
 .. _WashingtonModelInputsDoc:
 
 Washington Input Data and Processing
-===================================
+======================================
 
 .. contents::
     :local:

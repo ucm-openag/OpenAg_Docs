@@ -5,3 +5,4 @@
    3. wait for it to load, then launch a prompt with it from tray icon
    4. Make sure perl is on the PATH in that prompt (C:\StrawberryPerl\perl\bin)
    5. navigate to docs folder\build\latex and run make all-pdf
+3. Use sphinx-autobuild . build/html to view the docs locally

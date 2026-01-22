@@ -1,0 +1,56 @@
+Visual Changelog - 2025 - 2026
+================================
+
+Changes to OpenAg App
+-------------------------------------------------------------
+
+.. figure:: ./vue3_update.*
+
+With the introduction of Vue 3, many parts of the site had to be retouched to
+work with the new update.
+
+New Features
+------------
+
+**Filters and Controls**
+    - Simplified how controls are displayed
+    - Added "Clear All" to removed all active controls
+    - When a comparison model run has been selected, it will not be removed when switching tabs
+
+**Charts**
+    - Added column for base values for corresponding crop
+
+**Map Viewer**
+    - Added better readability when hovering
+    - Chart will appear with a comparison to the base case value of that region
+    - Pop up message (Off by default) a new setting that displays the region's information when hovering over it
+    - Map will change colors depending on the map value selected
+        + A region with no data will be displayed with no color
+    - Added ability to select regions and disable all non-selected regions
+    - Added ability to compare runs
+    - Added Normalization toggle
+        + NOTE: When Normalizing with Land selected for map value the result will appear as 1
+
+**Summary Table**
+    - Added ability to import and compare different runs
+        + By default the base case will be shown
+
+**Table Tab**
+    - Added comparison mode to import other runs
+        + Toggle for showing the difference from imported and current viewing scenario. By default, the base case will be shown
+    - Added download function
+        + After downloading, a row will have values for its model run and base case
+
+**Forgot/Change Password**
+    - Forgot password button has been added to login screen
+    - Change your password by going into the settings after signing in
+
+**Table Viewer**
+    - Certain model runs will not have the ability to create scenarios. When this happens a new page will be shown instead that
+      that allows to view solved model scenarios in a table format.
+    - Compare with the base case with an interactive chart that has the ability to change dynamically and allow for regions filitering
+
+Bug Fixes
+----------
+    - Error message will display when trying to add both a comparison model run and changing the baseline. This was an unintended action and will lead to false/incorrect data being shown
+    - Make Model Runs: When clicking on a region, the page will no longer grow instead the regions will be a scrollable list.

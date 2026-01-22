@@ -22,4 +22,4 @@ by each user in their settings section.
 New Basemaps Available in Data Viewer
 --------------------------------------------
 The default basemap |project_name| previously used was no longer available, so we found and added new basemaps you can
-select when viewing model data (not yet during modl run creation).
+select when viewing model data (not yet during model run creation).

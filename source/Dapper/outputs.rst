@@ -15,8 +15,3 @@ Calculated Outputs
 Includes price and yield adjustments. The land quantity requires that enough water is available to support the grown crop.
 
 
-..
-    Comment
-    This article should be clear to indicate that it is referring to the model outputs and *not*
-    necessarily to the outputs available in the web interface (AR: this might be helped by not referring to the csv downloads in the text, 
-    put in a link to “Viewing Model Run Results and Raw Model Input Data”). 
