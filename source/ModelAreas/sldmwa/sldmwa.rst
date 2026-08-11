@@ -18,7 +18,7 @@ The databases encompass the San Luis Delta Mendota Water Authority
 
 
 
-.. table:: Table 1: Modeling regions utilized in the database
+.. table:: Modeling regions utilized in the database
 
    ===================================  =================
    WDNAME                               HR NAME
@@ -79,7 +79,7 @@ Relationships for category development and proxies are given in Table 2.
 
 
 
-.. table:: Table 2. Model crop categories, commodities, and economic proxies
+.. table:: Model crop categories, commodities, and economic proxies
 
    +-------------------+----------------------------------------------------------------------------------------+--------------------------------+
    | **Crop Group**    | **LandIQ Commodities**                                                                 | **Economic Proxy Commodities** |
@@ -171,7 +171,7 @@ assembly process depending on the context and the intended application.
 
 
 
-.. table:: Table 3. Crop classification schemes
+.. table:: Crop classification schemes
 
    =================  ====================
    OpenAg             DWR
@@ -312,7 +312,7 @@ individual crops.
 
 
 
-.. table:: Table 4. Individual Crop Split Factors
+.. table:: Individual Crop Split Factors
 
    +------------------------+------------------------------------+----------------------+-------------------------------+--------------+
    | Crop Group (DWR)       | Crop Group Baseline AW (2011-2013) | Single Crop (OpenAg) | Individual Avg AW (2016-2019) | Split Factor |
@@ -457,7 +457,7 @@ of the individual elasticities of the corresponding OpenAg crops.
 
 
 
-.. table:: Table 5. DWR Crop Group Conversion to OpenAg Single Crop
+.. table:: DWR Crop Group Conversion to OpenAg Single Crop
 
    +------------------------+----------------------+
    | Crop Group (DWR)       | Single Crop (OpenAg) |
