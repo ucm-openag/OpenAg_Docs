@@ -11,3 +11,4 @@ regions, crop groups, and calibrated input data for the model. Here are some of 
     washington/washington.rst
     ssj_delta/ssj_delta.rst
     sldmwa/sldmwa.rst
+    walla_yakima_okanogan/washington.rst
